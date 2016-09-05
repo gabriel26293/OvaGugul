@@ -1,0 +1,2 @@
+En el dia de la fecha se debatio sobre la historia del juego y el menu.
+Nos comprometimos a comenzar a ver los códigos en Python.
