@@ -1,0 +1,11 @@
+Jueves, 15 de septiembre de 2016
+
+En el día de la fecha el grupo decidió dividir el grupo en dos sub-grupos de 3, los cuales se conforma 
+de la siguiente manera:
+Sub-grupo 1: Gabriel Gomez, Nahuel Flores y Mariana Budani
+Sub-grupo2: Eliana Gimenez, Fernando Depalma y Jonathan Laime
+Los mismos se mantendrán organizados de esta manera hasta finalizar la tarea asignada.
+El Sub-grupo 1: Deberá crear un prototipo del personaje y sus movimientos, para luego modificarlo y crear 
+el juego definitivo (La ultima tarea se vera en el trascurso del mes de septiembre)
+El Sub-grupo 2: Deberá crear un prototipo de menú (el  mismo una vez finalizado también se verá luego en el 
+mes  de septiembre como se conformaran los sub-grupos para crear el menú finalizado)
